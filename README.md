@@ -5,7 +5,8 @@
   - 📁 Quotes & Contracts
   - ⏲️ Shifts
   - 🕑 Clock In/Out of HR with 🗺️ Location
-  Company that I worked with:
+
+Company that I worked with:
   - ![Image](https://www.vigilar.it/favicon.ico) [Vigilar SRL](https://www.vigilar.it)
   - ![Image](https://www.kontrolservice.it/wp-content/uploads/2017/10/ks.jpg) [Kontrol Service](https://www.kontrolservice.it)
 ### What I work with
