@@ -1,13 +1,19 @@
 ### My Projects
 - ⚾[baseball-scoreboard](https://github.com/fc-softwares/baseball-scoreboard) with my friend [@TheTecnoKing](https://github.com/thetecnoking) in our company [F&C software](https://github.com/fc-softwares)
-- ERP software for small/medium company to meneage:
+- ERP software for small/medium companies to manage:
   - 🫂 Human Resources 
   - 📁 Quotes & Contracts
   - ⏲️ Shifts
   - 🕑 Clock In/Out of HR with 🗺️ Location
-
+- Investigation Manager
+  - 📨 Mandate of Private Investigation
+  - 🕑 Clock In/Out and Transfer calculation
+  - :lock: Protection of insert data in respect of the privacy and GDPR lawing
+  - 📁 Reports for HR
+  - 💰 Administrative management for investigations and expenses
+ 
 Company that I worked with:
-  - ![Image](https://www.vigilar.it/favicon.ico) [Vigilar SRL](https://www.vigilar.it)
+  - ![Image](https://www.vigilar.it/wp-content/uploads/2020/10/logo_vigilar.jpg) [Vigilar SRL](https://www.vigilar.it)
   - ![Image](https://www.kontrolservice.it/wp-content/uploads/2017/10/ks.jpg) [Kontrol Service](https://www.kontrolservice.it)
 ### What I work with
 - React
