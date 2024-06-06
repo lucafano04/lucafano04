@@ -15,6 +15,8 @@
 Company that I worked with:
   - ![Image](https://www.vigilar.it/wp-content/uploads/2020/10/logo_vigilar.jpg) [Vigilar SRL](https://www.vigilar.it)
   - ![Image](https://www.kontrolservice.it/wp-content/uploads/2017/10/ks.jpg) [Kontrol Service](https://www.kontrolservice.it)
+### Contributions
+- [WBSC-Scoring](https://github.com/AloisSeckar/WBSC-Scoring) - Translator and bug/issues reporter
 ### What I work with
 - React
 - Electron
