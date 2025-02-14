@@ -18,6 +18,7 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 ## 💼 Projects
 - ⚾ [Baseball Scoreboard](https://github.com/fc-softwares/baseball-scoreboard) with [@TheTecnoKing](https://github.com/thetecnoking) at [F&C software](https://github.com/fc-softwares).
+- [**SatisTrento**](https://github.com/lucafano04/progettoComune): a interactive software to display data of the city of Trento for citizens and analysts with [@Lukil33](https://github.com/Lukil33) and [@Boss314](https://github.com/Boss314) for the course "Ingegneria del software" at University of Trento in collaboration with the city of Trento 
 - **ERP Software**: Managing HR, Quotes & Contracts, Shifts, Clock In/Out with location tracking.
 - **Investigation Manager**: Mandate of Private Investigation, Clock In/Out, GDPR compliance, HR reports, and administrative management.
 
