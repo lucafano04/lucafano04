@@ -1,6 +1,8 @@
-# Hi there, I'm Luca Facchini! 👋
+# Hi, I'm Luca Facchini 👋
 
-Full-Stack Engineer & Computer Science Graduate specializing in scalable web ecosystems, real-time multimedia workflows, and multi-tenant enterprise software architectures. 
+Full-Stack Engineer building **real-time applications**, **sports technology**, and **scalable web platforms**.
+
+I enjoy designing systems from architecture to deployment, with a focus on multi-tenant applications, real-time communication, and developer-friendly solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca_Facchini-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/luca-facchini-it/)
 [![Email](https://img.shields.io/badge/Email-luca%40fc--software.it-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:luca@fc-software.it)
@@ -8,46 +10,68 @@ Full-Stack Engineer & Computer Science Graduate specializing in scalable web eco
 
 ---
 
-### 🚀 Production Platforms & System Architecture
+### 🚀 Featured Projects
 
 #### ⚾ [Pitchers Tournament Tracker](https://lanciatori.fc-software.it) (Private Repository)
-*   **Role:** Creator & Lead Architect (Jan 2024 -- Present)
-*   **The System:** A multi-tenant sports ERP ecosystem handling automated tournament schedules, real-time standings computations, and official administrative updates for baseball and softball federations.
-*   **The Architecture Stack:** Vue 3, TypeScript, Node.js (Express), MySQL, Vite, Tailwind CSS, JWT.
-*   **Key Engineering Solutions:**
-    *   *Data Ingestion Engine:* Programmed an asynchronous data processing pipeline using `multer` and `read-excel-file` to parse official WBSC (`my.wbsc`) complex roster data packages.
-    *   *Security & Access Control:* Implemented stateless token authentication via `express-jwt` to enforce strict Role-Based Access Control (RBAC) separating field officials, team managers, and tournament commissioners.
-    *   *Reporting Engine:* Integrated `@jsreport/nodejs-client` to dynamically generate policy-critical regulatory documents and safety reports on pitcher usage limitations from live database inputs.
+Production multi-tenant tournament management platform used to manage baseball and softball competitions.
 
+**Highlights**
+
+- Multi-tenant architecture for independent organizations
+- Automated tournament scheduling and standings computation
+- Asynchronous Excel import pipeline for official WBSC roster files
+- JWT authentication with Role-Based Access Control (RBAC)
+- Dynamic PDF report generation through jsreport
+- Modern Vue 3 + Express architecture
+
+**Stack**
+
+`Vue 3` • `TypeScript` • `Node.js` • `Express` • `MySQL` • `Tailwind CSS`
 #### 📺 [Baseball Scoreboard](https://github.com/FC-softwares/baseball-scoreboard) (Public Client Workflow)
-*   **Role:** Lead Developer (Nov 2020 -- Present)
-*   **The System:** A real-time television-style broadcast overlay graphics platform syncing live game statistics instantly with active video feeds.
-*   **The Architecture Stack:** React, WebSockets, Open Broadcaster Software (OBS) Engine API.
+A real-time graphics engine for baseball broadcasts built around OBS.
 
-### 🎓 Recent Engineering & Research
+**Highlights**
 
-*   **University of Trento — B.Sc. Computer Science Graduate (106/110)**
-    *   *Thesis:* `Smartphone Video-Check` (Supervisor: Prof. Marco Patrignani). Analyzed, architected, and built a low-latency, multi-device peer-to-peer mobile streaming review pipeline for real-time refereeing validation without relying on fixed field hardware infrastructure.
-*   **[SatisTrento](https://github.com/lucafano04/progettoComune)** (with [@Lukil33](https://github.com/Lukil33) & [@Boss314](https://github.com/Boss314))
-    *   *Scope:* Interactive analytical geo-data platform developed in collaboration with the Municipality of Trento for automated civic analytics and data visualization.
+- Live scoreboard overlay
+- WebSocket-powered real-time updates
+- OBS integration
+- Broadcast-oriented interface
 
----
+**Stack**
 
-### 🛠️ Technical Ecosystem Matrix
-
-*   **Languages:** TypeScript, JavaScript (ES6+), SQL, Java, C++, C, PHP, HTML5/CSS3
-*   **Frameworks & Core Tools:** Vue 3, React.js, Node.js, Express, Vite, Electron, Tailwind CSS, MUI
-*   **SecOps & System Design:** JSON Web Tokens (JWT), Role-Based Access Control (RBAC), End-to-End Encryption, GDPR Compliance Pipelines, Asynchronous File I/O
-*   **Operating Systems:** Linux Shell Scripting, Windows Server Environment Setup
+`React` • `WebSockets` • `OBS WebSocket API`
 
 ---
 
-### 🏀 Sports Tech & Domain Expertise
+#### 🎓 Smartphone Video-Check
 
-When away from the keyboard, I convert complex regulatory business logic directly into reliable code by operating as a certified official in live, high-pressure environments:
-*   **Official Baseball Scorekeeper:** National and international frameworks with [FIBS](https://www.fibs.it/it) and [WBSC](https://www.wbsc.org/).
-*   **Technical Timekeeper:** Automated hardware timing arrays and sensor arrays via [AssoKronos Trentina / FICr](https://www.ficr.it).
-*   **Basketball Referee:** In-game adjudication and split-second operational management via [FIP](https://fip.it/).
+Bachelor thesis at the University of Trento.
+
+Designed and implemented a peer-to-peer mobile video review system enabling low-latency replay for sports officials without dedicated field infrastructure.
+
+**Research focus**
+
+- Peer-to-peer streaming
+- Multi-device synchronization
+- Low-latency video delivery
+- System feasibility analysis
+
+#### 🏛️ SatisTrento
+
+Developed in collaboration with the Municipality of Trento.
+
+Interactive civic analytics platform for geographic visualization and municipal open data.
+
+GitHub: https://github.com/lucafano04/progettoComune
+
+---
+
+### 💻 Tech Stack
+- **Languages**: TypeScript • JavaScript • SQL • Java • C++ • C • PHP
+- **Frontend**: Vue 3 • React • Tailwind CSS • Material UI • Vite
+- **Backend**: Node.js • Express • REST APIs • MySQL
+- **Architecture**: Multi-tenant systems • RBAC • JWT Authentication • Real-time communication • Asynchronous processing • End-to-End Encryption
+- **Tools**: Git • Linux • Windows Server
 
 ---
 
@@ -64,3 +88,23 @@ When away from the keyboard, I convert complex regulatory business logic directl
 | :--- | :--- | :--- | :--- |
 | **Kontrol Service SRL** | Full-Stack Web Developer | 2024 | React, Node.js, MySQL, E2E Encryption |
 | **Vigilar SRL** | Web Developer | 2022 | React, Node.js, MySQL, Cloud APIs |
+
+---
+
+### 🎓 Education
+
+**University of Trento**
+
+B.Sc. Computer Science
+
+**Grade**: 106/110
+
+**Thesis**: Smartphone Video-Check
+
+### ⚾ Beyond Software
+
+My software is heavily influenced by real experience on the field. Working as a sports official has given me firsthand insight into the challenges of real-time decision making, tournament operations, and regulatory workflows.
+
+- ⚾ Official Baseball Scorekeeper (FIBS / WBSC)
+- 🏀 Basketball Referee (FIP)
+- ⏱️ Technical Timekeeper (FICr)
